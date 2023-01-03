@@ -25,12 +25,12 @@ If you're on mac you can install `portaudio` using `homebrew`
 ### using virtualenv (recommend)
 1. `python -m venv vir_env`
 2. `source vir_env/bin/activate`(for mac)
-3. `source vir_env/bin/activate`(for windows)
+3. `vir_env\Scripts\activate`(for windows)
 
 ### pip packages
 `pip install -r requirements.txt` 
 
-## Things to be added for full unlocking full capabilities of Dee
-1. Your email and password are required to be added in the code if you want to use the send email function
-2. You also need to add the emails of the other people with whom you want to interact through dee
-3. I have given the url for play music to work you can always change it to the folder where you have the songs saved in your device
+## Things to be added for unlocking full capabilities of Dee
+1. Your email and password are required to be added in the code if you want to use the send email function.
+2. You also need to add the emails of the other people with whom you want to interact through dee.
+3. I have given the url for 'play music' to work you can always change it to the folder where you have the songs saved in your device.
